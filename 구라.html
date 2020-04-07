@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+    <script src="slot.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="slot.css">
+</head>
+<body>
+    <h1 id="title">롤 뭐하지?</h1>
+    <div class="name">
+        <p id="name-champion">챔피언</p>
+        <p id="name-line">라인</p>
+        <p id="name-build">빌드</p>
+    </div>
+    <table border="1" align="center">
+        <tbody>
+            <tr>
+                <td class="td" id="제한"> 
+                    <div class="통제">
+                        <ul id="champion" class="rolling">
+                        <li>가렌</li>
+                        <li>갈리오</li>
+                        <li>갱플랭크</li>
+                        <li>그라가스</li>
+                        <li>그레이브즈</li>
+                        <li>나르</li>
+                        <li>나미</li>
+                        <li>나서스</li>
+                        <li>노틸러스</li>
+                        <li>녹턴</li>
+                        <li>누누와 월럼프</li>
+                        <li>니달리</li>
+                        <li>니코</li>
+                        <li>다리우스</li>
+                        <li>다이애나</li>
+                        <li>드레이븐</li>
+                        <li>라이즈</li>
+                        <li>라칸</li>
+                        <li>람머스</li>
+                        <li>럭스</li>
+                        <li>럼블</li>
+                        <li>레넥톤</li>
+                        <li>레오나</li>
+                        <li>렉사이</li>
+                        <li>렝가</li>
+                        <li>루시안</li>
+                        <li>룰루</li>
+                        <li>르블랑</li>
+                        <li>리신</li>
+                        <li>리븐</li>
+                        <li>리산드라</li>
+                        <li>마스터 이</li>
+                        <li>마오카이</li>
+                        <li>말자하</li>
+                        <li>말파이트</li>
+                        <li>모데카이저</li>
+                        <li>모르가나</li>
+                        <li>문도 박사</li>
+                        <li>미스 포츈</li>
+                        <li>바드</li>
+                        <li>바루스</li>
+                        <li>바이</li>
+                        <li>베이가</li>
+                        <li>베인</li>
+                        <li>벨코즈</li>
+                        <li>볼리베어</li>
+                        <li>브라움</li>
+                        <li>브랜드</li>
+                        <li>블라디미르</li>
+                        <li>블리츠크랭크</li>
+                        <li>빅토르</li>
+                        <li>뽀삐</li>
+                        <li>사이온</li>
+                        <li>사일러스</li>
+                        <li>샤코</li>
+                        <li>세나</li>
+                        <li>세주아니</li>
+                        <li>세트</li>
+                        <li>소나</li>
+                        <li>소라카</li>
+                        <li>쉔</li>
+                        <li>쉬바나</li>
+                        <li>스웨인</li>
+                        <li>스카너</li>
+                        <li>시비르</li>
+                        <li>신 짜오</li>
+                        <li>신드라</li>
+                        <li>신지드</li>
+                        <li>쓰레쉬</li>
+                        <li>아리</li>
+                        <li>아무무</li>
+                        <li>아우렐리온 솔</li>
+                        <li>아이번</li>
+                        <li>아지르</li>
+                        <li>아칼리</li>
+                        <li>아트록스</li>
+                        <li>아펠리오스</li>
+                        <li>알리스타</li>
+                        <li>애니</li>
+                        <li>애니비아</li>
+                        <li>애쉬</li>
+                        <li>야스오</li>
+                        <li>에코</li>
+                        <li>앨리스</li>
+                        <li>오공</li>
+                        <li>오른</li>
+                        <li>오리아나</li>
+                        <li>울라프</li>
+                        <li>요릭</li>
+                        <li>우디르</li>
+                        <li>우르곳</li>
+                        <li>워윅</li>
+                        <li>유미</li>
+                        <li>이렐리아</li>
+                        <li>이블린</li>
+                        <li>이즈리얼</li>
+                        <li>일라오이</li>
+                        <li>자르반 4세</li>
+                        <li>자야</li>
+                        <li>자이라</li>
+                        <li>자크</li>
+                        <li>잔나</li>
+                        <li>잭스</li>
+                        <li>제드</li>
+                        <li>제라스</li>
+                        <li>제이스</li>
+                        <li>조이</li>
+                        <li>직스</li>
+                        <li>진</li>
+                        <li>질리언</li>
+                        <li>징크스</li>
+                        <li>초가스</li>
+                        <li>카르마</li>
+                        <li>카밀</li>
+                        <li>카사딘</li>
+                        <li>카서스</li>
+                        <li>카시오페아</li>
+                        <li>카이사</li>
+                        <li>카직스</li>
+                        <li>카타리나</li>
+                        <li>칼리스타</li>
+                        <li>케넨</li>
+                        <li>케이틀린</li>
+                        <li>케인</li>
+                        <li>케일</li>
+                        <li>코그모</li>
+                        <li>코르키</li>
+                        <li>퀸</li>
+                        <li>클레드</li>
+                        <li>키아나</li>
+                        <li>킨드레드</li>
+                        <li>타릭</li>
+                        <li>탈론</li>
+                        <li>탈리야</li>
+                        <li>탐 켄치</li>
+                        <li>트런들</li>
+                        <li>트리스타나</li>
+                        <li>트린다미어</li>
+                        <li>트위스티드 페</li>
+                        <li>트위치</li>
+                        <li>티모</li>
+                        <li>파이크</li>
+                        <li>판테온</li>
+                        <li>피들스틱</li>
+                        <li>피오라</li>
+                        <li>피즈</li>
+                        <li>하이머딩거</li>
+                        <li>헤카림</li>
+                        <li>가렌</li>
+                        </ul>
+                    </div>
+                </td>
+                <td class="td" id="제한">
+                    <div class="통제">
+                        <ul id="line" class="rolling">
+                            <li>탑</li>
+                            <li>정글</li>
+                            <li>미드</li>
+                            <li>원딜</li>
+                            <li>서폿</li>
+                            <li>탑</li>
+                        </ul>
+                    </div>
+                </td>
+                <td class="td" id="제한">
+                    <div class="통제">
+                        <ul id="build" class="rolling">
+                            <li>ad</li>
+                            <li>ap</li>
+                            <li>탱커</li>
+                            <li>딜탱</li>
+                            <li>이속</li>
+                            <li>ad</li>
+                        </ul>
+                    </div>  
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <button id="시작" class="">start</button>
+    <div class="버튼">
+    <input type="button" value="champion stop" class="start">
+    <input type="button" value="line stop" class="넛신"> 
+    <input type="button" value="build stop" class="몰라">
+    </div>
+    <h1 id="멘트">왼쪽에 있는 start버튼을 눌러 시작한후</h1>
+    <h1>stop 버튼을 눌러 멈추세요</h1>
+</body>
+</html>

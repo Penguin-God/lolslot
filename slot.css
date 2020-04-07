@@ -1,0 +1,611 @@
+@keyframes champion{
+    0.34% {
+        transform: translateY(0);
+    }
+    1.02% {
+        transform: translateY(-0,67%);
+    }
+    1.7% {
+        transform: translateY(-1.34%);
+    }
+    2.38%{
+        transform: translateY(-2.01%);
+    }
+    3.06% {
+        transform: translateY(-2.68%);
+    }
+    3.74% {
+        transform: translateY(-3.35%);
+    }
+    4.42% {
+        transform: translateY(-4.02%);
+    }
+    5.1% {
+        transform: translateY(-4.69%);
+    }
+    5.78%{
+        transform: translateY(-5.36%);
+    }
+    6.46% {
+        transform: translateY(-6.03%);
+    }
+    7.14% {
+        transform: translateY(-6.7%);
+    }
+    7.82% {
+        transform: translateY(-7.37%);
+    }
+    8.5% {
+        transform: translateY(-8.04%);
+    }
+    9.18%{
+        transform: translateY(-8.71%);
+    }
+    9.86% {
+        transform: translateY(-9.38%);
+    }
+    10.54% {
+        transform: translateY(-10.05%);
+    }
+    11.22% {
+        transform: translateY(-10.72%);
+    }
+    11.9% {
+        transform: translateY(-11.39%);
+    }
+    12.58%{
+        transform: translateY(-12.06%);
+    }
+    13.26% {
+        transform: translateY(-12.73%);
+    }
+    13.94% {
+        transform: translateY(-13.4%);
+    }
+    14.62% {
+        transform: translateY(-14.07%);
+    }
+    15.3% {
+        transform: translateY(-14.74%);
+    }
+    15.98%{
+        transform: translateY(-15.41%);
+    }
+    16.66% {
+        transform: translateY(-16.08%);
+    }
+    17.34% {
+        transform: translateY(-16.75%);
+    }
+    18.02% {
+        transform: translateY(-17.42%);
+    }
+    18.7% {
+        transform: translateY(-18.09%);
+    }
+    19.38%{
+        transform: translateY(-18.76%);
+    }
+    20.06% {
+        transform: translateY(-19.43%);
+    }
+    20.74% {
+        transform: translateY(-20.1%);
+    }
+    21.42% {
+        transform: translateY(-20.77%);
+    }
+    22.1% {
+        transform: translateY(-21.44%);
+    }
+    22.78%{
+        transform: translateY(-22.11%);
+    }
+    23.46% {
+        transform: translateY(-22.78%);
+    }
+    24.14% {
+        transform: translateY(-23.45%);
+    }
+    24.82% {
+        transform: translateY(-24.12%);
+    }
+    25.5% {
+        transform: translateY(-24.79%);
+    }
+    26.18%{
+        transform: translateY(-25.46%);
+    }
+    26.86% {
+        transform: translateY(-26.13%);
+    }
+    27.54% {
+        transform: translateY(-26.8%);
+    }
+    28.22% {
+        transform: translateY(-27.48%);
+    }
+    28.9% {
+        transform: translateY(-28.16%);
+    }
+    29.58%{
+        transform: translateY(-28.84%);
+    }
+    30.26% {
+        transform: translateY(-29.51%);
+    }
+    30.94% {
+        transform: translateY(-30.19%);
+    }
+    31.62% {
+        transform: translateY(-30.86%);
+    }
+    32.3% {
+        transform: translateY(-31.53%);
+    }
+    32.98%{
+        transform: translateY(-32.2%);
+    }
+    33.66% {
+        transform: translateY(-32.87%);
+    }
+    34.34% {
+        transform: translateY(-33.54%);
+    }
+    35.02% {
+        transform: translateY(-34.21%);
+    }
+    35.7% {
+        transform: translateY(-34.88%);
+    }
+    36.38%{
+        transform: translateY(-35.55%);
+    }
+    37.06% {
+        transform: translateY(-36.22%);
+    }
+    37.74% {
+        transform: translateY(-36.89%);
+    }
+    38.42% {
+        transform: translateY(-37.56%);
+    }
+    39.1% {
+        transform: translateY(-38.23%);
+    }
+    39.78%{
+        transform: translateY(-38.9%);
+    }
+    40.46% {
+        transform: translateY(-39.57%);
+    }
+    41.14% {
+        transform: translateY(-40.24%);
+    }
+    41.82% {
+        transform: translateY(-40.91%);
+    }
+    42.5% {
+        transform: translateY(-41.58%);
+    }
+    43.18%{
+        transform: translateY(-42.25%);
+    }
+    43.86% {
+        transform: translateY(-42.92%);
+    }
+    44.54% {
+        transform: translateY(-43.59%);
+    }
+    45.22% {
+        transform: translateY(-44.26%);
+    }
+    45.9% {
+        transform: translateY(-44.93%);
+    }
+    46.58%{
+        transform: translateY(-45.6%);
+    }
+    47.26% {
+        transform: translateY(-46.27%);
+    }
+    47.94% {
+        transform: translateY(-46.94%);
+    }
+    48.62% {
+        transform: translateY(-47.61%);
+    }
+    49.3% {
+        transform: translateY(-48.28%);
+    }
+    49.98%{
+        transform: translateY(-48.95%);
+    }
+    50.66% {
+        transform: translateY(-49.62%);
+    }
+    51.34% {
+        transform: translateY(-50.29%);
+    }
+    52.02% {
+        transform: translateY(-50.96%);
+    }
+    52.7% {
+        transform: translateY(-51.63%);
+    }
+    53.38%{
+        transform: translateY(-52.3%);
+    }
+    54.06% {
+        transform: translateY(-52.97%);
+    }
+    54.74% {
+        transform: translateY(-53.64%);
+    }
+    55.42% {
+        transform: translateY(-54.31%);
+    }
+    56.1% {
+        transform: translateY(-54.98%);
+    }
+    56.78%{
+        transform: translateY(-55.65%);
+    }
+    57.46% {
+        transform: translateY(-56.32%);
+    }
+    58.14% {
+        transform: translateY(-56.99%);
+    }
+    58.82% {
+        transform: translateY(-57.66%);
+    }
+    59.5% {
+        transform: translateY(-58.33%);
+    }
+    60.18%{
+        transform: translateY(-59%);
+    }
+    60.86% {
+        transform: translateY(-59.67%);
+    }
+    61.54% {
+        transform: translateY(-60.34%);
+    }
+    62.22% {
+        transform: translateY(-61.01%);
+    }
+    62.9% {
+        transform: translateY(-61.68%);
+    }
+    63.58%{
+        transform: translateY(-62.35%);
+    }
+    64.26% {
+        transform: translateY(-63.02%);
+    }
+    64.94% {
+        transform: translateY(-63.69%);
+    }
+    65.62% {
+        transform: translateY(-64.36%);
+    }
+    66.3% {
+        transform: translateY(-65.03%);
+    }
+    66.98%{
+        transform: translateY(-65.7%);
+    }
+    67.66% {
+        transform: translateY(-66.37%);
+    }
+    68.34% {
+        transform: translateY(-67.04%);
+    }
+    69.02% {
+        transform: translateY(-67.71%);
+    }
+    69.7% {
+        transform: translateY(-68.38%);
+    }
+    70.38%{
+        transform: translateY(-69.05%);
+    }
+    71.06% {
+        transform: translateY(-69.72%);
+    }
+    71.74% {
+        transform: translateY(70.39);
+    }
+    72.42% {
+        transform: translateY(-71.06%);
+    }
+    73.1% {
+        transform: translateY(-71.73%);
+    }
+    73.78%{
+        transform: translateY(-72.4%);
+    }
+    74.46% {
+        transform: translateY(-73.07%);
+    }
+    75.14% {
+        transform: translateY(-73.74%);
+    }
+    75.82% {
+        transform: translateY(-74.41%);
+    }
+    76.5% {
+        transform: translateY(-75.08%);
+    }
+    77.18%{
+        transform: translateY(-75.75%);
+    }
+    77.86% {
+        transform: translateY(-76.42%);
+    }
+    78.54% {
+        transform: translateY(-77.09);
+    }
+    79.22% {
+        transform: translateY(-77.76%);
+    }
+    79.9% {
+        transform: translateY(-78.43%);
+    }
+    80.58%{
+        transform: translateY(-79.1%);
+    }
+    81.26% {
+        transform: translateY(-79.77%);
+    }
+    81.94% {
+        transform: translateY(-80.44%);
+    }
+    82.62% {
+        transform: translateY(-81.11%);
+    }
+    83.3% {
+        transform: translateY(-81.78%);
+    }
+    83.98%{
+        transform: translateY(-82.45%);
+    }
+    84.66% {
+        transform: translateY(-83.12%);
+    }
+    85.34% {
+        transform: translateY(-83.79%);
+    }
+    86.02% {
+        transform: translateY(-84.46%);
+    }
+    86.7% {
+        transform: translateY(-85.13%);
+    }
+    87.38%{
+        transform: translateY(-85.8%);
+    }
+    88.06% {
+        transform: translateY(-86.47%);
+    }
+    88.74% {
+        transform: translateY(-87.14%);
+    }
+    89.42% {
+        transform: translateY(-87.81%);
+    }
+    90.1% {
+        transform: translateY(-88.48%);
+    }
+    90.78%{
+        transform: translateY(-89.15%);
+    }
+    91.46% {
+        transform: translateY(-89.82%);
+    }
+    92.14% {
+        transform: translateY(-90.49%);
+    }
+    92.82% {
+        transform: translateY(-91.16%);
+    }
+    93.5% {
+        transform: translateY(-91.83%);
+    }
+    94.18%{
+        transform: translateY(-92.5%);
+    }
+    94.86% {
+        transform: translateY(-93.17%);
+    }
+    95.54% {
+        transform: translateY(-93.84%);
+    }
+    96.22% {
+        transform: translateY(-94.51%);
+    }
+    96.9% {
+        transform: translateY(-95.38%);
+    }
+    97.58%{
+        transform: translateY(-96.35%);
+    }
+    98.16% {
+        transform: translateY(-97.22%);
+    }
+    98.84% {
+        transform: translateY(-97.99%);
+    }
+    99.18% {
+        transform: translateY(-98.76%);
+    }
+    99.62% {
+        transform: translateY(-99.3%);
+    }
+    100% {
+        transform: translateY(-99.8%);
+    }
+} 
+@keyframes lineandbuild{
+    0% {
+        transform: translateY(-0%);
+    }
+    12% {
+        transform: translateY(-10%);
+    }
+    37% {
+        transform: translateY(-30%);
+    }
+    62% {
+        transform: translateY(-50%);
+    }
+    87% {
+        transform: translateY(-70%);
+    }
+    100% {
+        transform: translateY(-80%);
+    }
+}
+
+p{
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    color: #b68744;
+}
+
+#멘트{
+    margin-top: 3%;
+    font-size: 2.5em;
+}
+
+#title{
+    font-size: 3em;
+    font-family: 'Anton', sans-serif;
+}
+
+body{
+    background-color: #10232c;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border-collapse: collapse; 
+    width: 39%;
+    height: 27vh; 
+    margin-top: 1%;
+    background-color: aliceblue;
+}
+
+.start{
+    margin-left: 33%;
+    margin-top: 1%;
+}
+
+.넛신{
+    margin-left: 7%;
+}
+
+.몰라{
+    margin-left: 6%;
+}
+
+input{
+    padding: 0;
+    border: 0;
+    width: 7%;
+    height: 4vh;
+    border: 2px solid black;
+    border-color: #18a4a7;
+    background-color: #1e2329;
+    color: #b3cacd;
+}
+
+.td{
+    padding: 0;
+    width: 13%;
+    height: 9vh;
+    padding-top: 19%;
+    font-size: 200%;
+}
+#제한{
+    line-height: 1;
+    font-size: 2em;
+}
+
+.통제{
+    overflow: hidden;
+    vertical-align: top;
+    height: 1.1em;
+}
+
+#champion{
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    animation-name: champion;
+    animation-duration: 3s;  
+    animation-iteration-count: infinite;
+}
+
+.rolling{
+    animation-play-state: paused;
+}
+
+#build{
+    padding: 0;
+    text-align: center;
+    animation-name: lineandbuild;
+    animation-duration: 0.1s;
+    animation-iteration-count: infinite;
+}
+
+#line{
+    padding: 0;
+    text-align: center;
+    animation-name: lineandbuild;
+    animation-duration: 0.1s;
+    animation-iteration-count: infinite;
+}
+
+#시작{
+    padding: 0;
+    border: 0;
+    width: 7%;
+    height: 4vh;
+    margin-left: 10%;
+    border: 2px solid black;
+    border-color: #18a4a7;
+    background-color: #1e2329;
+    color: #b3cacd;
+}
+
+.name{
+    color: #9bafb3;
+    margin-top: 4%;
+    display: flex;
+    font-size: 2.5em;
+}
+
+#name-champion{
+    margin-left: 34%;
+}
+
+#name-line{
+    margin-left: 8%;
+}
+
+#name-build{
+    margin-left: 8%;
+}
