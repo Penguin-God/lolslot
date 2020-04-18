@@ -490,6 +490,7 @@ h1{
 }
 
 #title{
+    margin-top: 3%;
     font-size: 3em;
     font-family: 'Anton', sans-serif;
 }
@@ -501,6 +502,7 @@ body{
 }
 
 table{
+    border-color: #18a4a7;
     border-collapse: collapse; 
     width: 39%;
     height: 27vh; 
@@ -509,27 +511,27 @@ table{
 }
 
 .start{
-    margin-left: 33%;
-    margin-top: 1%;
+    margin-left: 30.5%;
 }
 
-.넛신{
+/* .넛신{
     margin-left: 7%;
 }
 
 .몰라{
     margin-left: 6%;
-}
+} */
 
 input{
     padding: 0;
     border: 0;
-    width: 7%;
-    height: 4vh;
-    border: 2px solid black;
+    width: 13%;
+    height: 9vh;
+    border: 1px solid black;
     border-color: #18a4a7;
     background-color: #1e2329;
     color: #b3cacd;
+    float: right;
 }
 
 .td{
@@ -538,7 +540,10 @@ input{
     height: 9vh;
     padding-top: 19%;
     font-size: 200%;
+    background-color: #1e2329;
+    color: #b68744;
 }
+
 #제한{
     line-height: 1;
     font-size: 2em;
@@ -580,10 +585,12 @@ input{
 }
 
 #시작{
-    padding: 0;
-    border: 0;
-    width: 7%;
-    height: 4vh;
+    font-size: 200%;
+    position: absolute;
+    top: 40%;
+    left: 3%;
+    width: 13%;
+    height: 9vh;
     margin-left: 10%;
     border: 2px solid black;
     border-color: #18a4a7;
@@ -592,8 +599,8 @@ input{
 }
 
 .name{
+    margin-top: 1%;
     color: #9bafb3;
-    margin-top: 4%;
     display: flex;
     font-size: 2.5em;
 }
@@ -608,4 +615,9 @@ input{
 
 #name-build{
     margin-left: 8%;
+}
+
+.btn-group{
+    width: 100%;
+    font-size: 200%;
 }
