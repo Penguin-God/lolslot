@@ -485,12 +485,12 @@ h1{
 }
 
 #멘트{
-    margin-top: 3%;
+    margin-top: 5%;
     font-size: 2.5em;
 }
 
 #title{
-    margin-top: 3%;
+    margin-top: 4%;
     font-size: 3em;
     font-family: 'Anton', sans-serif;
 }
@@ -505,14 +505,13 @@ table{
     border-color: #18a4a7;
     border-collapse: collapse; 
     width: 39%;
-    height: 27vh; 
-    margin-top: 1%;
-    background-color: aliceblue;
+    height: 9vh; 
+    margin-top: 2%;
 }
 
-.start{
+/* .start{
     margin-left: 30.5%;
-}
+} */
 
 /* .넛신{
     margin-left: 7%;
@@ -525,7 +524,7 @@ table{
 input{
     padding: 0;
     border: 0;
-    width: 13%;
+    width: 18.7%;
     height: 9vh;
     border: 1px solid black;
     border-color: #18a4a7;
@@ -538,13 +537,12 @@ input{
     padding: 0;
     width: 13%;
     height: 9vh;
-    padding-top: 19%;
     font-size: 200%;
-    background-color: #1e2329;
+    background-color: #4e4e4e;
     color: #b68744;
 }
 
-#제한{
+.제한{
     line-height: 1;
     font-size: 2em;
 }
@@ -552,7 +550,8 @@ input{
 .통제{
     overflow: hidden;
     vertical-align: top;
-    height: 1.1em;
+    height: 5vh;
+    background-color: #e5e5e5;
 }
 
 #champion{
@@ -585,21 +584,20 @@ input{
 }
 
 #시작{
-    font-size: 200%;
+    font-size: 350%;
     position: absolute;
-    top: 40%;
-    left: 3%;
+    top: 28%;
+    left: 15%;
     width: 13%;
-    height: 9vh;
-    margin-left: 10%;
-    border: 2px solid black;
+    height: 18vh;
+    border: 2px solid;
     border-color: #18a4a7;
     background-color: #1e2329;
     color: #b3cacd;
 }
 
 .name{
-    margin-top: 1%;
+    margin-top: 2%;
     color: #9bafb3;
     display: flex;
     font-size: 2.5em;
@@ -618,6 +616,7 @@ input{
 }
 
 .btn-group{
-    width: 100%;
+    margin-left: 30.5%;
+    width: 69.5%;
     font-size: 200%;
 }
